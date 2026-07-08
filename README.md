@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 สวัสดีค่ะ ดิฉัน นางสาวปวีณา ทองชำนาญ
 
-<!--
-**68010974011-hue/68010974011-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 นักศึกษาสาขาคอมพิวเตอร์ธุรกิจ
+📍 มหาวิทยาลัยมหาสารคาม
 
-Here are some ideas to get you started:
+💻 **ความสนใจ**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* การพัฒนาเว็บไซต์ (Web Development)
+* คลาวด์คอมพิวติ้ง (Cloud Computing)
+* ฐานข้อมูล (Database)
+* DevOps
+
+## ทักษะ Skills
+
+* HTML
+* CSS
+* JavaScript
+* SQL
+* Python
+* Git และ GitHub
+
+## การศึกษา Education
+
+**ปริญญาตรี สาขาคอมพิวเตอร์ธุรกิจ**
+มหาวิทยาลัยมหาสารคาม
+
+### ระบบจัดการนักศึกษา Student Management System
+
+* HTML
+* CSS
+* JavaScript
+* MySQL
+
+### ระบบจัดการสินค้าคงคลัง Inventory System
+
+* PHP
+* MySQL
+
+## ช่องทางการติดต่อ Contact
+📧 0615586805
+LINE: 0615586805tar
+Gmail: praweena0203@gmail.com
+
+
